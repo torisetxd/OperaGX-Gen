@@ -1,0 +1,7 @@
+# Example Config, make sure to put your proxies in proxies.txt
+url: "https://api.discord.gx.games/v1/direct-fulfillment"
+headers:
+    Content-Type: "application/json"
+    User-Agent: "OperaGX Gen by toriset"
+proxies_file: "proxies.txt"
+num_threads: 500
