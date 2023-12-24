@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a generator for free Discord Nitro links/offers using Opera GX. It uses a multi-threaded approach to generate and validate the offers.
+Take this code skids, its ready out of the box.
 
 ## Features
 - Multi-threaded requests for efficient generation.
