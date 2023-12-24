@@ -23,7 +23,7 @@ def append_token_to_file(token):
     if token:
         truncated_token = token[41:65]
         print(f"[+] ey...{truncated_token}...")
-        with open('token.txt', 'a') as token_file:
+        with open(load_config().get("output_file", "output.txt"), 'a') as token_file:
             token_file.write(f'https://discord.com/billing/partner-promotions/1180231712274387115/{token}\n')
 
 def make_request():
