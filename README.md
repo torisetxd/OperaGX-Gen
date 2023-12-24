@@ -21,9 +21,6 @@ You can configure the script via the `config.yml` file. Here are the available s
 - `url`: The URL to make requests to.
 - `headers`: The headers to include in the requests.
 
-## Statistics
-As of now, this generator has successfully generated over X Discord Nitro offers. (Replace X with your actual number)
-
 ## Disclaimer
 This project is for educational purposes only. Misuse of this code can violate Discord's terms of service.
 
