@@ -4,4 +4,5 @@ headers:
     Content-Type: "application/json"
     User-Agent: "OperaGX Gen by toriset"
 proxies_file: "proxies.txt"
+output_file: "test.txt" # Example file for where all the links should go.
 num_threads: 500
