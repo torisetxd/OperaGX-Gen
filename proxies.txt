@@ -1,0 +1,4 @@
+https://example.com:88
+https://username:password@authorized.example.com:80
+socks4://example.com:1080
+socks5://example.com:1080
